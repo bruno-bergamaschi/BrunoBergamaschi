@@ -41,3 +41,7 @@ Tecnologias que estou estudando:
 [![github-icon.png](https://i.postimg.cc/HnTr4jHs/github-icon.png)](https://github.com/bruno-bergamaschi) [![linkedin-icon.png](https://i.postimg.cc/282ZGd1p/linkedin-icon.png)](https://www.linkedin.com/in/brunobergamaschi/) [![instagram-icon.png](https://i.postimg.cc/cCc8VwTn/instagram-icon.png)](https://www.instagram.com/brunobergamaschi_/)
 
 - Obrigado pela visita!! o/
+
+<div>
+ <img height="150em" src="https://i.postimg.cc/T3J8scz9/giphy.gif"/>
+</div>
