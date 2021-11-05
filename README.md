@@ -19,12 +19,6 @@ Tecnologias que estou estudando:
 
 ## Minhas redes
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/bruno-bergamaschi)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/brunobergamaschi/)
-
-[![Instagram_Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=LINK_INSTAGRAM)](https://www.instagram.com/brunobergamaschi_/)
-
-[![instagram-icon.png](https://i.postimg.cc/cCc8VwTn/instagram-icon.png)](https://www.instagram.com/brunobergamaschi_/)
+[![github-icon.png](https://i.postimg.cc/HnTr4jHs/github-icon.png)](https://github.com/bruno-bergamaschi) [![linkedin-icon.png](https://i.postimg.cc/282ZGd1p/linkedin-icon.png)](https://www.linkedin.com/in/brunobergamaschi/) [![instagram-icon.png](https://i.postimg.cc/cCc8VwTn/instagram-icon.png)](https://www.instagram.com/brunobergamaschi_/)
 
 - Obrigado pela visita!! o/
