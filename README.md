@@ -25,6 +25,8 @@ Tecnologias que estou estudando:
  <img height="60em" src="https://i.postimg.cc/dtmBYTDn/git.png"/>
 </div>
 
+<br>
+
 <div>
  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bruno-bergamaschi&show_icons=true&theme=dark"/>
  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-bergamaschi&layout=compact"/>
