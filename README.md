@@ -25,4 +25,6 @@ Tecnologias que estou estudando:
 
 [![Instagram_Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=LINK_INSTAGRAM)](https://www.instagram.com/brunobergamaschi_/)
 
+[![instagram-icon.png](https://i.postimg.cc/cCc8VwTn/instagram-icon.png)](https://www.instagram.com/brunobergamaschi_/)
+
 - Obrigado pela visita!! o/
