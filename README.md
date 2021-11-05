@@ -20,7 +20,7 @@ Tecnologias que estou estudando:
  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-bergamaschi&layout=compact"/>
 </div>
 
-![Snake animation](https://github.com/bruno-bergamaschi;)
+![Snake animation](https://github.com/bruno-bergamaschi/bruno-bergamaschi/blob/output/github-contribution-grid-snake.svg)
 
 ## Minhas redes
 
