@@ -17,6 +17,7 @@ Tecnologias que estou estudando:
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-bergamaschi&show_icons=true&theme=dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-bergamaschi"/>
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-bergamaschi&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-bergamaschi)](https://github.com/bruno-bergamaschi?tab=repositories)
