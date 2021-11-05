@@ -21,7 +21,7 @@ Tecnologias que estou estudando:
 </div>
 
 <div>
- <img height="160em" src="https://github.com/bruno-bergamaschi/bruno-bergamaschi/blob/output/github-contribution-grid-snake.svg"/>
+ <img height="170em" src="https://github.com/bruno-bergamaschi/bruno-bergamaschi/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
 ## Minhas redes
