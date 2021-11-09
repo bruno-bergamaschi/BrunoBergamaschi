@@ -7,7 +7,7 @@
 
 :house_with_garden: Sou de Porto Alegre - RS | Brasil.
 
-:books: Atualmente estou estudando Front-End e Mobile na SoulCode Academy.
+:man_technologist: Analista Desenvolvedor I na Global Hitss.
 
 :outbox_tray: Metas para 2021: Concluir o curso e iniciar minha carreira como desenvolvedor.
 
