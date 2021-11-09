@@ -29,7 +29,7 @@ Tecnologias que estou estudando:
 
 <div>
  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bruno-bergamaschi&show_icons=true&theme=dark"/>
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-bergamaschi&layout=compact"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-bergamaschi&layout=compact&theme=dark"/>
 </div>
 
 <div>
