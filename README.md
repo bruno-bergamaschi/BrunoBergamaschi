@@ -9,7 +9,7 @@
 
 :man_technologist: Analista Desenvolvedor I na Global Hitss.
 
-:outbox_tray: Metas para 2021: Concluir o curso e iniciar minha carreira como desenvolvedor.
+:outbox_tray: Metas para 2022: Iniciar os estudos de inglês e continuar estudando React Native e Flutter.
 
 Tecnologias que estou estudando:
 
