@@ -9,7 +9,7 @@
 
 :man_technologist: Analista Desenvolvedor I na Global Hitss.
 
-:outbox_tray: Metas para 2022: Iniciar os estudos de inglês e continuar estudando React Native e Flutter.
+:outbox_tray: Metas para 2022: Aprimorar meu inglês e continuar estudando React Native e Flutter.
 
 Tecnologias que estou estudando:
 
