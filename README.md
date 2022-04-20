@@ -9,7 +9,7 @@
 
 :man_technologist: Analista Desenvolvedor I na Global Hitss.
 
-Tecnologias que estou estudando:
+Tecnologias que possuo conhecimento:
 
 <div>
  <img height="60em" src="https://i.postimg.cc/VkqFz06D/html.png"/>
