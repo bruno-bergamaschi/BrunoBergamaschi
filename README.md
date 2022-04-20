@@ -30,10 +30,6 @@ Tecnologias que possuo conhecimento:
  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-bergamaschi&layout=compact&theme=dark"/>
 </div>
 
-<div>
- <img height="175em" src="https://github.com/bruno-bergamaschi/bruno-bergamaschi/blob/output/github-contribution-grid-snake.svg"/>
-</div>
-
 ## Minhas redes
 
 [![github-icon.png](https://i.postimg.cc/HnTr4jHs/github-icon.png)](https://github.com/bruno-bergamaschi) [![linkedin-icon.png](https://i.postimg.cc/282ZGd1p/linkedin-icon.png)](https://www.linkedin.com/in/brunobergamaschi/) [![instagram-icon.png](https://i.postimg.cc/cCc8VwTn/instagram-icon.png)](https://www.instagram.com/brunobergamaschi_/)
